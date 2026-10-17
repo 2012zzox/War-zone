@@ -1,5 +1,5 @@
 # 战争之域
-<img width="160" height="160" alt="屏幕截图 2026-08-24 133726" src="https://github.com/user-attachments/assets/a3aa8666-ae38-4fbb-aa8c-c927729a53dd" />
+<img width="85" height="87" alt="WZ" src="https://github.com/user-attachments/assets/821b5b89-55e0-4396-8bb1-598a1dd97c1e" />
 
 在TurboWarp上做的小游戏，类似搜打撤
 
